@@ -66,7 +66,7 @@ const leaderBoard = {
         },
         {
             name: 'Jay',
-            score : 2
+            score : 2.5
         }
     ]
 };
